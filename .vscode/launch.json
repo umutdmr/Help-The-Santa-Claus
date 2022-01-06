@@ -14,13 +14,6 @@
         },
         {
             "type": "java",
-            "name": "Launch FordFulkersonDfsSolverAdjacencyList",
-            "request": "launch",
-            "mainClass": "FordFulkersonDfsSolverAdjacencyList",
-            "projectName": "Help-The-Santa-Claus_e5969316"
-        },
-        {
-            "type": "java",
             "name": "Launch project4main",
             "request": "launch",
             "mainClass": "project4main",
